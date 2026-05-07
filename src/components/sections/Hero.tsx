@@ -24,9 +24,11 @@ export const Hero = () => {
             className="mt-6 font-display font-bold tracking-tighter text-5xl sm:text-6xl lg:text-7xl xl:text-8xl leading-[0.95]">
             Full Stack Dev
             <br />
+            {/*
             crafting <span className="text-gradient">delightful</span>
             <br />
             web experiences.
+            */}
           </motion.h1>
 
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.25 }}

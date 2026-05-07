@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 import { ArrowUpRight, Github } from "lucide-react";
 import { SectionHeader } from "./SectionHeader";
-import vima from "@/assets/work-vima.jpg";
-import jobportal from "@/assets/work-jobportal.jpg";
-import portfolio from "@/assets/work-portfolio.jpg";
+import vima from "@/assets/vima.png";
+import jobportal from "@/assets/loyseconnect.png";
+import portfolio from "@/assets/portfolio.png";
 
 const works = [
   {

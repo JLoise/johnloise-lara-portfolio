@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+  import { motion } from "framer-motion";
 import { SectionHeader } from "./SectionHeader";
 
 const jobs = [
