@@ -30,7 +30,7 @@ const works = [
     title: "Portfolio v1",
     tag: "Personal Site",
     year: "2024",
-    desc: "My first portfolio — built and shipped on Vercel. The starting point for everything you see today.",
+    desc: "My first portfolio, built and shipped on Vercel. The starting point for everything you see today.",
     stack: ["Next.js", "Tailwind CSS", "Vercel"],
     img: portfolio,
     live: "https://portfolio-git-nu.vercel.app/",

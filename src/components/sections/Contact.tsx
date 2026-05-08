@@ -8,7 +8,7 @@ export const Contact = () => (
       <div className="absolute inset-0 bg-hero opacity-60 -z-0" />
       <div className="relative z-10 grid lg:grid-cols-[1.2fr_1fr] gap-12 items-start">
         <div>
-          <SectionHeader eyebrow="Contact" title={<>Got an idea? <br /><span className="text-gradient">Let's build it.</span></>} description="I'm currently taking on freelance projects and full-time roles. Drop a line — I usually reply within 24 hours." />
+          <SectionHeader eyebrow="Contact" title={<>Got an idea? <br /><span className="text-gradient">Let's build it.</span></>} description="I'm currently taking on freelance projects and full-time roles. I usually reply within 24 hours." />
           <div className="flex flex-wrap gap-3">
             <Button size="lg" asChild className="rounded-full h-12 px-7 bg-gradient-to-r from-primary to-primary-glow text-primary-foreground shadow-elegant hover:opacity-90">
               <a href="mailto:johnloise.lara16@gmail.com"><Mail className="h-4 w-4" /> Send an email</a>
