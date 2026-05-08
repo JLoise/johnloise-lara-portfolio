@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Github, Linkedin, Mail, Sparkles } from "lucide-react";
 import { Button } from "../ui/button";
-import portrait from "@/assets/portrait.png";
+import portrait from "@/assets/portrait.jpg";
 
 export const Hero = () => {
   return (
@@ -55,8 +55,8 @@ export const Hero = () => {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 0.6 }}
             className="mt-10 grid grid-cols-3 max-w-md gap-6 border-t border-border pt-6">
             {[
-              { k: "2+", v: "Years building" },
-              { k: "10+", v: "Projects shipped" },
+              { k: "1+", v: "Years building" },
+              { k: "2", v: "Projects shipped" },
               { k: "3.42", v: "GPA · Dean's List" },
             ].map(s => (
               <div key={s.v}>

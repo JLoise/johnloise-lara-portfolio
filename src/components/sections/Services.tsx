@@ -3,12 +3,12 @@ import { SectionHeader } from "./SectionHeader";
 import { motion } from "framer-motion";
 
 const services = [
-  { icon: Layout, title: "Frontend Development", desc: "Pixel-perfect, responsive interfaces with React, Next.js & Tailwind. Smooth, accessible, and fast." },
-  { icon: Database, title: "Backend & APIs", desc: "RESTful APIs with Node.js, Express, MongoDB, PostgreSQL. Clean schemas, scalable services." },
-  { icon: Code2, title: "Full Stack Apps", desc: "End-to-end MERN & Next.js builds — from idea, to MVP, to production deployment on Vercel." },
-  { icon: ShieldCheck, title: "Auth & Security", desc: "JWT, OAuth 2.0, Magic Links & OTP. Protected routes and role-based access done right." },
-  { icon: TestTube, title: "QA & Testing", desc: "End-to-end tests with Playwright & Selenium so your app ships with confidence." },
-  { icon: Zap, title: "Performance & UX", desc: "Audits, refactors, and snappy interactions that turn first-time visitors into users." },
+  { icon: Layout, title: "Frontend Development", desc: "Creates websites that look perfect on all screens using React, Next.js, and Tailwind. They are smooth, easy to use, and fast." },
+  { icon: Database, title: "Backend & APIs", desc: "Builds APIs with Node.js, Express, MongoDB, and PostgreSQL. Makes sure the data is organized and the services can grow." },
+  { icon: Code2, title: "Full Stack Apps", desc: "Develops complete apps with MERN and Next.js. Starts from your idea and builds it into a working product on Vercel." },
+  { icon: ShieldCheck, title: "Auth & Security", desc: "Handles login with JWT, OAuth 2.0, Magic Links, and OTP. Protects your app and controls who can access what." },
+  { icon: TestTube, title: "QA & Testing", desc: "Tests apps with Playwright and Selenium to make sure everything works before you launch." },
+  { icon: Zap, title: "Performance & UX", desc: "Checks and improves apps to make them faster and better for users. This helps keep visitors coming back." },
 ];
 
 export const Services = () => (
