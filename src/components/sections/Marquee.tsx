@@ -4,7 +4,7 @@ export const Marquee = () => (
     <div className="flex animate-marquee whitespace-nowrap">
       {[...items, ...items].map((it, i) => (
         <span key={i} className="mx-8 font-display font-semibold text-2xl text-muted-foreground hover:text-foreground transition-smooth">
-          {it} <span className="text-accent">✦</span>
+          {it} <span className="text-primary">✦</span>
         </span>
       ))}
     </div>
