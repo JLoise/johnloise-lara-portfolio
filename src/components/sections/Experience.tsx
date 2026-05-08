@@ -32,7 +32,7 @@ const jobs = [
 
 export const Experience = () => (
   <section id="experience" className="py-24 lg:py-32 container">
-    <SectionHeader eyebrow="Work Experience" title={<>Roles that <span className="text-gradient">shaped me</span>.</>} description="Real, shipped products with real users. Here's where I've been getting my hands dirty." />
+    <SectionHeader eyebrow="Work Experience" title={<>Roles that <span className="text-gradient">shaped me</span>.</>} description="" />
     <div className="relative max-w-4xl">
       <div className="absolute left-3 md:left-4 top-2 bottom-2 w-px bg-gradient-to-b from-primary via-primary-glow to-transparent" />
       <div className="space-y-12">

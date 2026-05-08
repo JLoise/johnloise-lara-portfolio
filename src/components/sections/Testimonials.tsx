@@ -3,9 +3,8 @@ import { Quote } from "lucide-react";
 import { SectionHeader } from "./SectionHeader";
 
 const items = [
-  { quote: "John has the rare blend of speed and care. He shipped our auth flow ahead of schedule and it just worked — no flaky bugs, clean code.", name: "Project Lead", role: "Vima Club" },
-  { quote: "One of the most reliable interns we've had. Took ownership of the API layer and delivered a production-ready job portal end-to-end.", name: "Engineering Manager", role: "FilDEV Cloud" },
-  { quote: "Great communicator, even better engineer. Whatever the brief looked like, the result was always clean and responsive.", name: "Workshop Mentee", role: "ACM" },
+  { quote: "Loise is fast and careful. He finished our login system early and it worked perfectly. No bugs, and the code is clean.", name: "JB Samar", role: "Vima Club Founder" },
+  { quote: "He was one of the best interns. He handled the API part and made a full job portal that was ready for production.", name: "Bernard Torres", role: "FilDEV Cloud Founder" },
 ];
 
 export const Testimonials = () => (
