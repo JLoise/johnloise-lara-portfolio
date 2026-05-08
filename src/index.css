@@ -15,9 +15,9 @@
     --popover: 0 0% 100%;
     --popover-foreground: 220 25% 10%;
 
-    --primary: 240 70% 55%;
+    --primary: 199 89% 48%;
     --primary-foreground: 0 0% 100%;
-    --primary-glow: 260 80% 65%;
+    --primary-glow: 199 95% 65%;
 
     --secondary: 40 20% 92%;
     --secondary-foreground: 220 25% 10%;
@@ -56,9 +56,9 @@
     --popover: 230 22% 9%;
     --popover-foreground: 40 30% 96%;
 
-    --primary: 250 90% 70%;
-    --primary-foreground: 230 25% 6%;
-    --primary-glow: 280 85% 70%;
+    --primary: 199 89% 48%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 199 95% 65%;
 
     --secondary: 230 18% 14%;
     --secondary-foreground: 40 30% 96%;
@@ -74,7 +74,7 @@
 
     --border: 230 18% 18%;
     --input: 230 18% 18%;
-    --ring: 250 90% 70%;
+    --ring: 243 70% 55%;
 
     --shadow-elegant: 0 20px 60px -20px hsl(var(--primary) / 0.45);
     --shadow-card: 0 4px 20px -4px hsl(0 0% 0% / 0.5);
