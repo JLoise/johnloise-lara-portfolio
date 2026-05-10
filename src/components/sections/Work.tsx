@@ -19,7 +19,7 @@ const works = [
   {
     title: "Job Portal",
     tag: "MERN App",
-    year: "2025",
+    year: "2026",
     desc: "Full-stack job portal with Google OAuth 2.0, role-based access control, and protected REST routes.",
     stack: ["MongoDB", "Express", "React", "Node.js"],
     img: jobportal,
@@ -29,7 +29,7 @@ const works = [
   {
     title: "Portfolio v1",
     tag: "Personal Site",
-    year: "2024",
+    year: "2026",
     desc: "My first portfolio, built and shipped on Vercel. The starting point for everything you see today.",
     stack: ["Next.js", "Tailwind CSS", "Vercel"],
     img: portfolio,
