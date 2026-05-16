@@ -4,6 +4,7 @@ import { SectionHeader } from "./SectionHeader";
 import vima from "@/assets/vima.png";
 import jobportal from "@/assets/loyseconnect.png";
 import portfolio from "@/assets/portfolio.png";
+import openai from "@/assets/ai.png";
 
 const works = [
   {
@@ -34,6 +35,16 @@ const works = [
     stack: ["Next.js", "Tailwind CSS", "Vercel"],
     img: portfolio,
     live: "https://portfolio-git-nu.vercel.app/",
+    repo: "https://github.com/JLoise",
+  },
+  {
+    title: "AI Enquiry Bot",
+    tag: "Side Project",
+    year: "2026",
+    desc: "A chatbot built with python, and openai api, designed to answer questions about a specific topic or dataset.",
+    stack: ["Python", "OpenAI API"],
+    img: openai,
+    live: "https://smc-ai-inquiries.vercel.app/",
     repo: "https://github.com/JLoise",
   },
 ];
