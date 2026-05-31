@@ -74,8 +74,8 @@ export const Hero = () => {
             <img src={portrait} alt="John Loise Lara" width={768} height={896} className="w-full h-auto" />
           </div>
           <div className="absolute -bottom-4 -left-4 rounded-2xl border border-border bg-card px-4 py-3 shadow-card font-mono text-xs">
-            <div className="text-muted-foreground">// currently</div>
-            <div className="text-foreground">building @ Vima Club</div>
+            <div className="text-muted-foreground">// Currently</div>
+            <div className="text-foreground">Building @ Vima Club</div>
           </div>
           <div className="absolute -top-4 -right-4 rounded-2xl border border-border bg-card px-4 py-3 shadow-card">
             <div className="text-xs text-muted-foreground">Stack</div>
